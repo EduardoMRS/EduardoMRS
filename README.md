@@ -36,5 +36,5 @@ Olá, eu sou o Eduardo, um entusiasta de jogos online e desenvolvedor de softwar
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/eduardo_marc0s)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardomrs)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-%23FF5733.svg?style=for-the-badge&logo=portfolio&logoColor=white)](https://deveduardomrs.pro/portifolio)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-%23FF5733.svg?style=for-the-badge&logo=portfolio&logoColor=white)](https://deveduardomrs.pro)
 
